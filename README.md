@@ -382,7 +382,7 @@ Test Network      | Hardhat Local / Sepolia
 
 ## Team
 
-CSE540 - Project 1  
+CSE540 - Group 11
 
 Krithika A Hegde – 1237268229 – khegde12@asu.edu  
 Durgashivani Sivabalan – 1237588861 – dsivabal@asu.edu  
