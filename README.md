@@ -94,8 +94,8 @@ Go to https://metamask.io/download and install for Chrome. Follow the setup wiza
 ## Step 1 - Download the Project
 
 ```
-git clone https://github.com/Sanjaysoralamavu/pharma-supplychain.git
-cd pharma-supplychain
+git clone https://github.com/Sanjaysoralamavu/Pharma-Chain.git
+cd Pharma-Chain
 ```
 
 Or unzip the downloaded folder and open terminal inside it.
