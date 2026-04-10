@@ -34,6 +34,10 @@ async function main() {
     deployer: deployer.address,
   }, null, 2));
   console.log("Deployment info saved to deployment.json");
+
+  // Auto-sync frontend .env so it never gets out of date
+  fs.writeFileSync("frontend/.env", `REACT_APP_CONTRACT_ADDRESS=${address}\n`);
+  console.log("frontend/.env updated with new contract address:", address);
 }
 
 main().catch((err) => { console.error(err); process.exit(1); });
