@@ -7,3 +7,7 @@ deployment.json
 Group_11_Spring2026B_CSE 540_Pharma_Chain Code.txt
 
 Pharma-Chain.txt
+frontend/build/
+
+.DS_Store
+**/.DS_Store
